@@ -24,11 +24,11 @@ body {
     border-radius: 20px;
 }
 
+
 .search:focus {
     outline: none;
     border-color: #3ea6ff;
 }
-
 
 
 .video-grid {
@@ -38,9 +38,23 @@ body {
 }
 
 
-
 .video-preview {
     cursor: pointer;
+}
+
+
+.channel{
+    width: 30px;
+}
+
+
+.channel-picture{
+    display: inline-block;
+}
+
+
+.video-info{
+    display: inline-block;
 }
 
 
@@ -50,14 +64,15 @@ body {
 }
 
 
-
 .video-title {
     font-size: 16px;
     font-weight: bold;
     margin-top: 10px;
     margin-bottom: 5px;
     line-height: 22px;
+    width: 250px;
 }
+
 
 .video-author {
     color: gray;

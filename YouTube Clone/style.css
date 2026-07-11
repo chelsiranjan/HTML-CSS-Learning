@@ -1,7 +1,10 @@
+
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 40px;
+    background-color: white;
 }
 
 /* Search Bar */
@@ -9,79 +12,92 @@ body {
 .search {
     display: block;
     width: 600px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-    /* padding:10px 20px; */
-    margin-top: 0;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 40px;
-    /* margin: 0 auto 40px; */
+    margin: 0 auto 40px;
+    padding: 12px 20px;
     font-size: 16px;
     border: 1px solid #ccc;
-    border-radius: 20px;
+    border-radius: 25px;
 }
-
 
 .search:focus {
     outline: none;
     border-color: #3ea6ff;
 }
 
+/* Video Grid */
 
 .video-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 25px;
+    column-gap: 20px;
+    row-gap: 35px;
 }
 
+/* Video Card */
 
 .video-preview {
     cursor: pointer;
 }
 
-
-.channel{
-    width: 30px;
-}
-
-
-.channel-picture{
-    display: inline-block;
-}
-
-
-.video-info{
-    display: inline-block;
-}
-
+/* Thumbnail */
 
 .thumbnail {
     width: 100%;
     display: block;
+    border-radius: 8px;
 }
 
+/* Channel + Info Layout */
+
+.video-info-grid {
+    display: grid;
+    grid-template-columns: 48px 1fr;
+    column-gap: 12px;
+    margin-top: 12px;
+    align-items: start;
+}
+
+/* Channel Image */
+
+.channel-picture {
+    width: 48px;
+}
+
+.channel {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+}
+
+/* Video Info */
+
+.video-info {
+    width: 100%;
+}
+
+/* Title */
 
 .video-title {
     font-size: 16px;
-    font-weight: bold;
-    margin-top: 10px;
-    margin-bottom: 5px;
+    font-weight: 500;
     line-height: 22px;
-    width: 250px;
+    margin: 0 0 8px 0;
 }
 
+/* Author */
 
 .video-author {
-    color: gray;
     font-size: 14px;
-    margin-bottom: 4px;
+    color: rgb(96, 96, 96);
+    margin: 0 0 4px 0;
 }
 
+/* Stats */
+
 .video-stats {
-    color: gray;
     font-size: 14px;
-    margin-top: 10px;
+    color: rgb(96, 96, 96);
+    margin: 0;
 }

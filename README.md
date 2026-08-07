@@ -12,30 +12,30 @@ This repository is dedicated to my HTML & CSS practice, where I'll continue addi
 
 ## 💻 What's Inside?
 
-✨ Beginner-Friendly HTML Projects  
-🎨 CSS Styling & Layouts  
-📱 Responsive Web Pages  
-🖥️ Website Clones  
-📂 UI Components  
-📄 Landing Pages
+- ✨ Beginner-Friendly HTML Projects
+- 🎨 CSS Styling & Layouts
+- 📱 Responsive Web Pages
+- 🖥️ Website Clones
+- 📂 UI Components
+- 📄 Landing Pages
 
-...and more projects coming soon! 🚀
+...and many more projects coming soon! 🚀
 
 ---
 
 ## 🎯 My Goal
 
-Learning HTML and CSS allows me to design simple interfaces and showcase my projects.
+Learning HTML and CSS helps me build clean, responsive, and user-friendly interfaces while creating a strong foundation for developing web-based applications and showcasing my projects.
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Chelsi Ranjan**, a Computer Science student passionate about Python, Data Science, and Machine Learning.
+Hi! I'm **Chelsi Ranjan**, a Computer Science student passionate about **Python, Data Science, and Machine Learning**.
 
-I'm currently focused on building a strong foundation in Python, Data Analysis, Machine Learning, Computer Vision, and Data Structures & Algorithms.
+I'm currently focused on building a strong foundation in **Python, Data Analysis, Machine Learning, Computer Vision, and Data Structures & Algorithms**.
 
-I also learn basic HTML and CSS to create simple user interfaces, project pages, and portfolios whenever needed, but my primary interest lies in AI and data-driven technologies.
+I also learn **HTML** and **CSS** to create simple user interfaces, project pages, and portfolios whenever needed, but my primary interest lies in AI and data-driven technologies.
 
 Outside of coding, I enjoy singing, photography, painting, content creation, and documenting my learning journey.
 

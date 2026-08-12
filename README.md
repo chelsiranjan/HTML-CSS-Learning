@@ -12,12 +12,12 @@ This repository is dedicated to my HTML & CSS practice, where I'll continue addi
 
 ## 💻 What's Inside?
 
-- ✨ Beginner-Friendly HTML Projects
-- 🎨 CSS Styling & Layouts
-- 📱 Responsive Web Pages
-- 🖥️ Website Clones
-- 📂 UI Components
-- 📄 Landing Pages
+✨ Beginner-Friendly HTML Projects
+🎨 CSS Styling & Layouts
+📱 Responsive Web Pages
+🖥️ Website Clones
+📂 UI Components
+📄 Landing Pages
 
 ...and many more projects coming soon! 🚀
 

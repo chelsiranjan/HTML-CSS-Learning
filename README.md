@@ -31,7 +31,7 @@ Learning HTML and CSS helps me build clean, responsive, and user-friendly interf
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Chelsi Ranjan**, a Computer Science student passionate about **Python, Data Science, and Machine Learning**.
+Hi! I'm **Chelsi Ranjan**, a Computer Science student passionate about technology and continuous learning.
 
 I'm currently focused on building a strong foundation in **Python, Data Analysis, Machine Learning, Computer Vision, and Data Structures & Algorithms**.
 

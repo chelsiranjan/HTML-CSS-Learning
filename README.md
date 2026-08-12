@@ -2,9 +2,9 @@
 
 ## 🌐 Welcome to My HTML & CSS Learning Repository
 
-This repository documents my journey of learning the fundamentals of **HTML** and **CSS** by building small projects and recreating popular website layouts.
+This repository documents my journey of learning the fundamentals of **HTML** and **CSS** by building small projects.
 
-Although my primary interest lies in **Python, Data Science, Machine Learning, and Data Structures & Algorithms**, I believe understanding the basics of front-end development is an important skill. It helps me create simple user interfaces, project landing pages, portfolios, and web-based applications whenever needed.
+Although my primary interest lies in **Data Science, Machine Learning, and Data Structures & Algorithms, Python**, I believe understanding the basics of front-end development is an important skill. It helps me create simple user interfaces, project landing pages, portfolios, and web-based applications whenever needed.
 
 This repository is dedicated to my HTML & CSS practice, where I'll continue adding projects as I improve my front-end fundamentals.
 
@@ -34,8 +34,6 @@ Learning HTML and CSS helps me build clean, responsive, and user-friendly interf
 Hi! I'm **Chelsi Ranjan**, a Computer Science student passionate about **Python, Data Science, and Machine Learning**.
 
 I'm currently focused on building a strong foundation in **Python, Data Analysis, Machine Learning, Computer Vision, and Data Structures & Algorithms**.
-
-I also learn **HTML** and **CSS** to create simple user interfaces, project pages, and portfolios whenever needed, but my primary interest lies in AI and data-driven technologies.
 
 Outside of coding, I enjoy singing, photography, painting, content creation, and documenting my learning journey.
 

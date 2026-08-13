@@ -33,16 +33,13 @@ Learning HTML and CSS helps me build clean, responsive, and user-friendly interf
 
 Hi! I'm **Chelsi Ranjan**, a Computer Science student passionate about technology and continuous learning.
 
-I'm currently focused on building a strong foundation in **Python, Data Analysis, Machine Learning, Computer Vision, and Data Structures & Algorithms**.
-
-Outside of coding, I enjoy singing, photography, painting, content creation, and documenting my learning journey.
+I'm currently focused on building a strong foundation in **Python, Data Analysis, Machine Learning, Computer Vision, and Data Structures & Algorithms**. Outside of coding, I enjoy singing, photography, painting, content creation, and documenting my learning journey.
 
 ---
 
 ## ⭐ Support
 
 If you found this repository helpful or interesting, consider giving it a **⭐ Star**.
-
 Your support motivates me to keep learning, building, and sharing more projects with the community.
 
 ---
@@ -50,7 +47,6 @@ Your support motivates me to keep learning, building, and sharing more projects 
 ### 📬 Let's Connect
 
 Feel free to explore the projects, suggest improvements, or connect with me through GitHub.
-
 Thanks for stopping by!
 
 #### Happy Coding! 🚀
